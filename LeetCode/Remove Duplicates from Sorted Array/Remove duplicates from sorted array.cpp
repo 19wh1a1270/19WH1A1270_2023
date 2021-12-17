@@ -14,4 +14,4 @@ public:
         sort(nums.begin(), nums.end());
         return n - c;
     }
-}
+};
